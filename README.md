@@ -29,6 +29,8 @@ This repository contains calculator implementations in the following programming
 - Bash
 - C#
 - TypeScript
+- C++
+- Javascript
 
 Each folder contains a basic calculator that can perform addition, subtraction, multiplication, and division, along with input handling and error checking.
 
