@@ -48,5 +48,5 @@ To run the calculators, follow these instructions based on the language you are 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Calculators-in-A-LOT-of-languages.git
+   git clone https://github.com/Fe4Rless233/Calculators-in-A-LOT-of-languages.git
    cd Calculators-in-A-LOT-of-languages
