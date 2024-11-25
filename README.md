@@ -8,7 +8,7 @@ Welcome to **Calculators-in-A-LOT-of-languages**! This project contains a collec
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Security](#security)
+- [Security](#SECURITY.md)
 - [License](#license)
 
 ## Languages
